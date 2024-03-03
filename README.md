@@ -8,6 +8,8 @@ The script is useful for SEO analysts, webmasters, or developers who need to qui
 
 ## How to Use
 
+> ⚠️ For easy use just download the exe file!
+
 ### Prerequisites
 
 - Python 3.x installed on your system.
